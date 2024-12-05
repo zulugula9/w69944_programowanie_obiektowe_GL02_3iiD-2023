@@ -1,0 +1,14 @@
+C:\Users\w69944\source\repos\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.exe
+C:\Users\w69944\source\repos\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.deps.json
+C:\Users\w69944\source\repos\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.runtimeconfig.json
+C:\Users\w69944\source\repos\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.dll
+C:\Users\w69944\source\repos\ConsoleApp4\bin\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\w69944\source\repos\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w69944\source\repos\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\w69944\source\repos\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\w69944\source\repos\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\w69944\source\repos\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.dll
+C:\Users\w69944\source\repos\ConsoleApp4\obj\Debug\net8.0\refint\ConsoleApp4.dll
+C:\Users\w69944\source\repos\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.pdb
+C:\Users\w69944\source\repos\ConsoleApp4\obj\Debug\net8.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\w69944\source\repos\ConsoleApp4\obj\Debug\net8.0\ref\ConsoleApp4.dll
